@@ -8,7 +8,7 @@ Constitution de dataframe, ainsi que transformation, agrégation (merge, concat)
 - constitution de dataframe à partir de différentes ressources 
 - transformation, agrégation (merge, concat), filtrage et calcul 
 
-**algèbre relationnelle**
+**Algèbre relationnelle**
 
 **SQL:** 
 
