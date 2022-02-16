@@ -1,4 +1,4 @@
-# DataAnalyst_P3_Python_SQL
+# DataAnalyst_P3_Public health data_analytics
 Constitution de dataframe, ainsi que transformation, agrégation (merge, concat), filtrage et calcul 
 
 **Python pandas:**
